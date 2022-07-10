@@ -5,7 +5,7 @@ print(f'Follow {nxtdxve} on Github')
 ```python
        OS  :  nt10
    Python  :  python 3.9.12
-Languages  :  C, PHP, Python, Java, Batch
+Languages  :  C, PHP, Python, Java, LUA
   Discord  :  swizzyy#0001
 ```
 
