@@ -1,12 +1,7 @@
 ### Hi there 👋
 
-<p align="center"><img src="https://gpvc.arturio.dev/AstraaDev" alt="Visitors"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/AstraaDev" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/AstraaDev" alt="Profile Forks"></a>
-<p align="center"><a href="https://dsc.gg/astraadev" target="_blank"><img src="https://discordapp.com/api/guilds/869346091743707206/widget.png?style=shield" alt="shield.png"></a></p></p>
-
 ```python
-print(f'Follow {astraadev} on Github')
+print(f'Follow {nxtdxve} on Github')
 ```
 
 ```python
@@ -21,19 +16,7 @@ Languages  :  C, PHP, Python, Java, Batch
 Knowledge is power.
 ```
 
-<a href="https://dsc.gg/astraadev" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
-<!--
-**nxtdxve/nxtdxve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://dsc.gg/astraadev" target="_blank"><img src="https://user-images.githubusercontent.com/89356515/178145570-bc26c5be-24b7-4de4-9b77-7f1dde8c4414.svg" alt="snake"></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...![Uploading github-contribution-grid-snake.svg…]()
 
-- ⚡ Fun fact: ...
--->
