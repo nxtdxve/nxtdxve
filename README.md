@@ -6,8 +6,7 @@ print(f'Follow {nxtdxve} on Github')
        OS  :  nt10
    Python  :  python 3.9.12
 Languages  :  C, PHP, Python, Java, Batch
-  Discord  :  464457105521508354
-   Server  :  869346091743707206
+  Discord  :  swizzyy#0001
 ```
 
 ```json
