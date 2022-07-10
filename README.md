@@ -13,7 +13,7 @@ Languages  :  C, PHP, Python, Java, LUA
 Knowledge is power.
 ```
 
-<a href="https://dsc.gg/astraadev" target="_blank"><img src="https://user-images.githubusercontent.com/89356515/178145570-bc26c5be-24b7-4de4-9b77-7f1dde8c4414.svg" alt="snake"></a>
+<a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"><img src="https://user-images.githubusercontent.com/89356515/178145570-bc26c5be-24b7-4de4-9b77-7f1dde8c4414.svg" alt="snake"></a>
 
 
 
