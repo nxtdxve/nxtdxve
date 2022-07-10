@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ```python
 print(f'Follow {nxtdxve} on Github')
 ```
