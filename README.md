@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/89356515/178145297-bde12c83-c8aa-4bee-8ebd-54a284139b9c.svg)
+
 <!--
 **nxtdxve/nxtdxve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...![Uploading github-contribution-grid-snake.svg…]()
+
 - ⚡ Fun fact: ...
 -->
