@@ -5,8 +5,8 @@ print(f'Follow {nxtdxve} on Github')
 ```python
        OS  :  nt10
    Python  :  python 3.9.12
-Languages  :  C, Javascript, Python, Java, LUA
-  Discord  :  swizzyy#7279
+Languages  :  Javascript, Python, LUA, C++, Ruby
+  Discord  :  .swizzy.
 ```
 
 ```json
