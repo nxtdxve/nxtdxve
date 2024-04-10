@@ -4,9 +4,9 @@ print(f'Follow {nxtdxve} on Github')
 
 ```python
        OS  :  nt10
-   Python  :  python 3.9.12
-Languages  :  Javascript, Python, C++, Ruby
-  Discord  :  .swizzy.
+   Python  :  python 3.12.3
+Languages  :  Java, Javascript, Python, C++, Ruby
+  Discord  :  wannatouchyou
 ```
 
 ```json
