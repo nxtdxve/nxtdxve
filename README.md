@@ -5,7 +5,7 @@ print(f'Follow {nxtdxve} on Github')
 ```python
        OS  :  nt10
    Python  :  python 3.12.3
-Languages  :  Java, Javascript, Python, C++, Ruby
+Languages  :  Java, Python, C#, C++, JavaScript, TypeScriptm, Ruby, Go
   Discord  :  wannatouchyou
 ```
 
@@ -13,7 +13,13 @@ Languages  :  Java, Javascript, Python, C++, Ruby
 Knowledge is power.
 ```
 
-<a href="https://bit.ly/3Itby9U" target="_blank"><img src="https://user-images.githubusercontent.com/89356515/178145570-bc26c5be-24b7-4de4-9b77-7f1dde8c4414.svg" alt="snake"></a>
-
+<div align="center">
+    <a href="https://bit.ly/3Itby9U" target="_blank">
+        <picture>
+            <source srcset="https://github.com/nxtdxve/nxtdxve/blob/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)">
+            <img src="https://github.com/nxtdxve/nxtdxve/blob/output/github-snake.svg" alt="snake">
+        </picture>
+    </a>
+</div>
 
 
