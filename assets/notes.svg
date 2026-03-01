@@ -11,4 +11,9 @@
       <tspan fill="#F97316">#</tspan> FIXME: sleep schedule
     </text>
   </g>
+
+  <!-- Blinking cursor after FIXME -->
+  <rect x="282" y="33" width="2" height="14" fill="#F97316" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.35;0.35;0.65;0.65;1" dur="1.2s" begin="0.9s" repeatCount="indefinite"/>
+  </rect>
 </svg>

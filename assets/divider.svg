@@ -6,8 +6,8 @@
       <stop offset="100%" stop-color="#F97316" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect x="200" y="1" width="0" height="2" rx="1" fill="url(#d)">
-    <animate attributeName="width" from="0" to="400" dur="0.8s" fill="freeze"/>
-    <animate attributeName="x" from="200" to="0" dur="0.8s" fill="freeze"/>
-  </rect>
+  <line x1="0" y1="2" x2="400" y2="2" stroke="url(#d)" stroke-width="2" stroke-linecap="round"
+        stroke-dasharray="400" stroke-dashoffset="400">
+    <animate attributeName="stroke-dashoffset" from="400" to="0" dur="1s" fill="freeze"/>
+  </line>
 </svg>
