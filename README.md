@@ -2,31 +2,39 @@
   <a href="https://zettler.dev" target="_blank">
     <img src="./assets/header.svg" alt="nxtdxve" width="600" />
   </a>
+
+  <br>
+
+  <img src="./assets/divider.svg" width="400" />
+
+  <br>
+
+  <img src="./assets/info.svg" alt="info" width="520" />
+
+  <br>
+
+  <img src="./assets/divider.svg" width="400" />
+
+  <br>
+
+  <img src="./assets/notes.svg" alt="notes" width="400" />
+
+  <br>
+
+  <img src="./assets/divider.svg" width="400" />
 </div>
 
-<br>
-
-```python
-     OS  :  nt10
- Python  :  3.12.3
-   Lang  :  Java, Python, Rust, C#, C++, JavaScript, TypeScript, Ruby
-```
-
-```python
-# TODO: building something cool
-# FIXME: sleep schedule
-# HACK: coffee += 1
-```
+<div align="center">
 
 <details>
 <summary><code>...</code></summary>
 <br>
-
-```
-Knowledge is power.
-```
-
+<i>Knowledge is power.</i>
 </details>
+
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://zettler.dev" target="_blank">
