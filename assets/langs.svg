@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 62" width="450" height="62">
+  <!-- Row 1: Java, Python, Rust, C# -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.2s" fill="freeze"/>
+    <rect x="121" y="5" width="46" height="22" rx="11" fill="none" stroke="#F97316" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="144" y="20" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" fill="#F97316">Java</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.35s" fill="freeze"/>
+    <rect x="175" y="5" width="59" height="22" rx="11" fill="none" stroke="#F97316" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="204.5" y="20" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" fill="#F97316">Python</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.5s" fill="freeze"/>
+    <rect x="242" y="5" width="46" height="22" rx="11" fill="none" stroke="#F97316" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="265" y="20" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" fill="#F97316">Rust</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.65s" fill="freeze"/>
+    <rect x="296" y="5" width="33" height="22" rx="11" fill="none" stroke="#F97316" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="312.5" y="20" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" fill="#F97316">C#</text>
+  </g>
+
+  <!-- Row 2: C++, JavaScript, TypeScript, Ruby -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.8s" fill="freeze"/>
+    <rect x="85" y="35" width="40" height="22" rx="11" fill="none" stroke="#F97316" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="105" y="50" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" fill="#F97316">C++</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.95s" fill="freeze"/>
+    <rect x="133" y="35" width="85" height="22" rx="11" fill="none" stroke="#F97316" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="175.5" y="50" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" fill="#F97316">JavaScript</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.1s" fill="freeze"/>
+    <rect x="226" y="35" width="85" height="22" rx="11" fill="none" stroke="#F97316" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="268.5" y="50" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" fill="#F97316">TypeScript</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.25s" fill="freeze"/>
+    <rect x="319" y="35" width="46" height="22" rx="11" fill="none" stroke="#F97316" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="342" y="50" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" fill="#F97316">Ruby</text>
+  </g>
+</svg>

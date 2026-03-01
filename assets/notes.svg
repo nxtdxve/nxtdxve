@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 52" width="380" height="52">
+  <defs>
+    <clipPath id="t1">
+      <rect x="69" y="4" width="0" height="22">
+        <animate attributeName="width" from="0" to="250" dur="0.5s" begin="0.2s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="t2">
+      <rect x="69" y="28" width="0" height="22">
+        <animate attributeName="width" from="0" to="190" dur="0.35s" begin="0.8s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <text clip-path="url(#t1)" x="69" y="20" text-anchor="start" font-family="monospace" font-size="13" fill="#6B7280">
+    <tspan fill="#F97316">#</tspan> TODO: building something cool
+  </text>
+
+  <text clip-path="url(#t2)" x="69" y="44" text-anchor="start" font-family="monospace" font-size="13" fill="#6B7280">
+    <tspan fill="#F97316">#</tspan> FIXME: sleep schedule
+  </text>
+
+  <!-- Blinking cursor after FIXME finishes typing -->
+  <rect x="250" y="33" width="2" height="14" fill="#F97316" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.35;0.35;0.65;0.65;1" dur="1s" begin="1.15s" repeatCount="indefinite"/>
+  </rect>
+</svg>
