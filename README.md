@@ -13,7 +13,9 @@ Knowledge is power.
 ```
 
 <div align="center">
-    <img src="https://github.com/nxtdxve/nxtdxve/blob/output/game.gif?raw=true" alt="GitHub Space Shooter">
+    <a href="https://bit.ly/3Itby9U" target="_blank">
+        <img src="https://github.com/nxtdxve/nxtdxve/blob/output/game.gif?raw=true" alt="GitHub Space Shooter">
+    </a>
 </div>
 
 
