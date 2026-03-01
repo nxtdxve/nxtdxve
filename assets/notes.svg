@@ -1,8 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 52" width="380" height="52">
-  <text x="190" y="20" text-anchor="middle" font-family="monospace" font-size="13" fill="#6B7280">
-    <tspan fill="#F97316">#</tspan> TODO: building something cool
-  </text>
-  <text x="190" y="44" text-anchor="middle" font-family="monospace" font-size="13" fill="#6B7280">
-    <tspan fill="#F97316">#</tspan> FIXME: sleep schedule
-  </text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.3s" fill="freeze"/>
+    <text x="190" y="20" text-anchor="middle" font-family="monospace" font-size="13" fill="#6B7280">
+      <tspan fill="#F97316">#</tspan> TODO: building something cool
+    </text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.5s" fill="freeze"/>
+    <text x="190" y="44" text-anchor="middle" font-family="monospace" font-size="13" fill="#6B7280">
+      <tspan fill="#F97316">#</tspan> FIXME: sleep schedule
+    </text>
+  </g>
 </svg>

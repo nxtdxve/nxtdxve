@@ -6,5 +6,8 @@
       <stop offset="100%" stop-color="#F97316" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect x="0" y="1" width="400" height="2" rx="1" fill="url(#d)"/>
+  <rect x="200" y="1" width="0" height="2" rx="1" fill="url(#d)">
+    <animate attributeName="width" from="0" to="400" dur="0.8s" fill="freeze"/>
+    <animate attributeName="x" from="200" to="0" dur="0.8s" fill="freeze"/>
+  </rect>
 </svg>
