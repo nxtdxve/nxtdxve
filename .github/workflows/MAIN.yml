@@ -23,14 +23,18 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate the space shooter animation
+      # Step 2: Create output directory
+      - name: Create Output Directory
+        run: mkdir -p dist
+
+      # Step 3: Generate the space shooter animation
       - name: Generate GitHub Space Shooter Animation
         uses: czl9707/gh-space-shooter@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: dist/game.gif
 
-      # Step 3: Deploy the generated files to the 'output' branch
+      # Step 4: Deploy the generated files to the 'output' branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
