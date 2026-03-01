@@ -1,11 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 76" width="400" height="76">
-  <text x="200" y="20" text-anchor="middle" font-family="monospace" font-size="13" fill="#6B7280">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 52" width="380" height="52">
+  <text x="190" y="20" text-anchor="middle" font-family="monospace" font-size="13" fill="#6B7280">
     <tspan fill="#F97316">#</tspan> TODO: building something cool
   </text>
-  <text x="200" y="44" text-anchor="middle" font-family="monospace" font-size="13" fill="#6B7280">
+  <text x="190" y="44" text-anchor="middle" font-family="monospace" font-size="13" fill="#6B7280">
     <tspan fill="#F97316">#</tspan> FIXME: sleep schedule
-  </text>
-  <text x="200" y="68" text-anchor="middle" font-family="monospace" font-size="13" fill="#6B7280">
-    <tspan fill="#F97316">#</tspan> HACK: coffee += 1
   </text>
 </svg>

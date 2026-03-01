@@ -1,9 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 120" width="600" height="120">
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FB923C"/>
-      <stop offset="50%" stop-color="#F97316"/>
-      <stop offset="100%" stop-color="#EA580C"/>
+    <linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="600" y2="0">
+      <stop offset="0%">
+        <animate attributeName="stop-color" values="#EA580C;#FB923C;#F97316;#EA580C" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%">
+        <animate attributeName="stop-color" values="#F97316;#FBBF24;#FB923C;#F97316" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%">
+        <animate attributeName="stop-color" values="#FB923C;#EA580C;#FBBF24;#FB923C" dur="3s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
     <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#F97316" stop-opacity="0"/>
@@ -14,7 +20,7 @@
 
   <text x="300" y="55" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="52" font-weight="700" fill="url(#grad)">nxtdxve</text>
 
-  <line x1="100" y1="75" x2="500" y2="75" stroke="url(#line-grad)" stroke-width="1.5"/>
+  <rect x="100" y="74" width="400" height="1.5" fill="url(#line-grad)" rx="1"/>
 
   <text x="300" y="100" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="14" fill="#9CA3AF">Turning imagination into innovation through code.</text>
 </svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 82" width="450" height="82">
+  <!-- nt10 label -->
+  <text x="225" y="14" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" fill="#6B7280">nt10</text>
+
+  <!-- Row 1: Java, Python, Rust, C# -->
+  <rect x="121" y="25" width="46" height="22" rx="11" fill="none" stroke="#F97316" stroke-opacity="0.5" stroke-width="1"/>
+  <text x="144" y="40" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" fill="#F97316">Java</text>
+
+  <rect x="175" y="25" width="59" height="22" rx="11" fill="none" stroke="#F97316" stroke-opacity="0.5" stroke-width="1"/>
+  <text x="204.5" y="40" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" fill="#F97316">Python</text>
+
+  <rect x="242" y="25" width="46" height="22" rx="11" fill="none" stroke="#F97316" stroke-opacity="0.5" stroke-width="1"/>
+  <text x="265" y="40" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" fill="#F97316">Rust</text>
+
+  <rect x="296" y="25" width="33" height="22" rx="11" fill="none" stroke="#F97316" stroke-opacity="0.5" stroke-width="1"/>
+  <text x="312.5" y="40" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" fill="#F97316">C#</text>
+
+  <!-- Row 2: C++, JavaScript, TypeScript, Ruby -->
+  <rect x="85" y="55" width="40" height="22" rx="11" fill="none" stroke="#F97316" stroke-opacity="0.5" stroke-width="1"/>
+  <text x="105" y="70" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" fill="#F97316">C++</text>
+
+  <rect x="133" y="55" width="85" height="22" rx="11" fill="none" stroke="#F97316" stroke-opacity="0.5" stroke-width="1"/>
+  <text x="175.5" y="70" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" fill="#F97316">JavaScript</text>
+
+  <rect x="226" y="55" width="85" height="22" rx="11" fill="none" stroke="#F97316" stroke-opacity="0.5" stroke-width="1"/>
+  <text x="268.5" y="70" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" fill="#F97316">TypeScript</text>
+
+  <rect x="319" y="55" width="46" height="22" rx="11" fill="none" stroke="#F97316" stroke-opacity="0.5" stroke-width="1"/>
+  <text x="342" y="70" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" fill="#F97316">Ruby</text>
+</svg>
