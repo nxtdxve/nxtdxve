@@ -5,27 +5,35 @@
 
   <br>
 
-  <img src="./assets/divider.svg" width="400" />
+  <a href="https://zettler.dev" target="_blank">
+    <img src="./assets/divider.svg" width="400" />
+  </a>
 
   <br>
 
-  <img src="./assets/langs.svg" alt="languages" width="450" />
+  <a href="https://zettler.dev" target="_blank">
+    <img src="./assets/langs.svg" alt="languages" width="450" />
+  </a>
 
   <br>
 
-  <img src="./assets/divider.svg" width="400" />
+  <a href="https://zettler.dev" target="_blank">
+    <img src="./assets/divider.svg" width="400" />
+  </a>
 
   <br>
 
-  <img src="./assets/notes.svg" alt="notes" width="380" />
+  <a href="https://zettler.dev" target="_blank">
+    <img src="./assets/notes.svg" alt="notes" width="380" />
+  </a>
 
   <br>
 
-  <img src="./assets/divider.svg" width="400" />
+  <a href="https://zettler.dev" target="_blank">
+    <img src="./assets/divider.svg" width="400" />
+  </a>
 
   <br><br>
 
-  <a href="https://zettler.dev" target="_blank">
-    <img src="https://github.com/nxtdxve/nxtdxve/blob/output/game.gif?raw=true" alt="GitHub Space Shooter" />
-  </a>
+  <img src="https://github.com/nxtdxve/nxtdxve/blob/output/game.gif?raw=true" alt="GitHub Space Shooter" />
 </div>
