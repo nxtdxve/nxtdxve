@@ -13,12 +13,7 @@ Knowledge is power.
 ```
 
 <div align="center">
-    <a href="https://bit.ly/3Itby9U" target="_blank">
-        <picture>
-            <source srcset="https://github.com/nxtdxve/nxtdxve/blob/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)">
-            <img src="https://github.com/nxtdxve/nxtdxve/blob/output/github-snake.svg" alt="snake">
-        </picture>
-    </a>
+    <img src="https://github.com/nxtdxve/nxtdxve/blob/output/game.gif?raw=true" alt="GitHub Space Shooter">
 </div>
 
 
